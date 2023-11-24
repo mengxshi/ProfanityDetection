@@ -1,2 +1,2 @@
 # ProfanityDetection
-This code detects for profanity in speeches. The hardwares used for this is a Raspberry Pi 4 Model B, USB Microphone, and a mini vibration motor. When profanity is detected, the mini motor vibrates to notify the user that they are using profanity. The goal of this project is to make a device that help lower excessive profanity usage by notifying the user whenever they are swearing.
+The scope of this project is to improve public speaking. The hardwares used for this is a Raspberry Pi 4 Model B, USB Microphone, and a mini vibration motor. When unprofessional speech is detected, the mini motor vibrates to notify the user that they are using profanity.
