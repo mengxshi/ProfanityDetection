@@ -23,7 +23,7 @@ while True:
     try:
         words = r.recognize_google(audio)
         print("I think you said "+words)
-        if("beach" in words or "Beach" in words or "bitch" in words or "Bitch" in words):
+        if("beach" in words or "Beach" in words or "bitch" in words or "Bitch" in words):#can extend the list as needed
             print("profanity detected")
             bz.on()
             led.on()
